@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Github Repositories/space/BugSmashRemastered/BugSmash/Content/EQS/EQs_tester.uasset",
+				"C:/Github Repositories/space/BugSmashRemastered/BugSmash/Content/EQS/EQS_query.uasset",
+				"C:/Github Repositories/space/BugSmashRemastered/BugSmash/Content/ThirdPerson/Blueprints/bt_enemy.uasset",
 				"D:/GameDorm Revived/BugSmashRemastered/BugSmash/Content/GreenwoodFantasyVillage/Maps/GreenwoodVillage_demoMap_night.umap",
 				"D:/GameDorm Revived/BugSmashRemastered/BugSmash/Content/GreenwoodFantasyVillage/Maps/GreenwoodVillage_demoMap.umap",
 				"D:/GameDorm Revived/BugSmashRemastered/BugSmash/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
