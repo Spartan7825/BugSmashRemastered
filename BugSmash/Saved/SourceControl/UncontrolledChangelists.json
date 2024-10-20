@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Internship/BugSmashRemastered/BugSmash/Content/ToolsNEquipment/Base/BP_Foamer.uasset",
+				"D:/Internship/BugSmashRemastered/BugSmash/Content/TheExterminator/NoTouch/ExterminatorT-Pose_Skeleton.uasset",
+				"D:/Internship/BugSmashRemastered/BugSmash/Content/TheExterminator/BP_Exterminator.uasset",
+				"D:/Internship/BugSmashRemastered/BugSmash/Content/TheExterminator/NewBlueprint.uasset",
 				"D:/GameDorm Revived/BugSmashRemastered/BugSmash/Content/GreenwoodFantasyVillage/Maps/GreenwoodVillage_demoMap_night.umap",
 				"D:/GameDorm Revived/BugSmashRemastered/BugSmash/Content/GreenwoodFantasyVillage/Maps/GreenwoodVillage_demoMap.umap",
 				"D:/GameDorm Revived/BugSmashRemastered/BugSmash/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
